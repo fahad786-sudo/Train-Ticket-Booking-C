@@ -1,0 +1,23 @@
+# Build output
+build/
+
+# Object files
+*.o
+
+# Executables
+*.out
+*.exe
+train_booking
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Runtime data (optional)
+# Uncomment these if you don't want runtime data in Git
+# data/*.dat
+
+# Logs
+*.log
